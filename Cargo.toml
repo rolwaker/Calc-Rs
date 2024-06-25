@@ -1,0 +1,12 @@
+[package]
+name = "calc"
+version = "1.0.0"
+authors = ["rolwaker"]
+description = "command-line calculator"
+homepage = "https://github.com/rolwaker/Calc-Rs"
+repository = "https://github.com/rolwaker/Calc-Rs"
+license = "MIT"
+readme = "README.md"
+edition = "2021"
+
+[dependencies]
